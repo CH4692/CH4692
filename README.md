@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charles</h1>
-<h3 align="center">Student with passion to Software Engineering</h3>
+<h3 align="center">Software Testmanager and Full-Stack-Developer with passion to Software Engineering</h3>
 
-- 🔭 I’m currently working on **building a website**
+- 🔭 I’m currently working on **building a portfolio website**
 
 - 📫 How to reach me **charles.heller@hotmail.de**
 
