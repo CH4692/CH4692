@@ -1,3 +1,1 @@
-Test Automation Engineer and Full-Stack-Developer with passion
-
-
+Software Engineer | Backend Development | Test Automation
